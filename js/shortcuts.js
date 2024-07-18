@@ -23,7 +23,7 @@ export default [
   {
     category: "PreCalc",
     color: "blue",
-    items{
+    items: {
       KhanA:"https://www.khanacademy.org/math/get-ready-for-ap-calc",
       "Pauls Notes":"https://tutorial.math.lamar.edu/",
       patrickJMT:"https://www.youtube.com/c/patrickjmt",
